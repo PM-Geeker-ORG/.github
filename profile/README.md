@@ -41,7 +41,7 @@
 
 ✅ 3. 你需要分享有价值的东西。
 
-✅ 4. [🔅 Go -> 留言加入](https://github.com/PM-Geeker-ORG/Adok/issues)
+✅ 4. [🔅 Go -> 前往Discussions讨论区加入这里](https://github.com/orgs/PM-Geeker-ORG/discussions)
 
 ---
 
