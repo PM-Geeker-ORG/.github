@@ -41,6 +41,10 @@
 
 ✅ 3. 你需要分享有价值的东西。
 
+✅ 4. [🔅 Go -> 留言加入](https://github.com/PM-Geeker-ORG/Adok/issues)
+
+---
+
 [🔅 Go -> 下载-Git](https://git-scm.com/download) &nbsp;&nbsp;&nbsp; [🔅 Go -> 安装-Git](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
 
 ```
