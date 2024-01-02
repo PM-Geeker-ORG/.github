@@ -41,7 +41,7 @@
 
 ✅ 3. 你需要分享有价值的东西。
 
-✅ 4. [🔅 Go -> 前往Discussions讨论区加入这里](https://github.com/orgs/PM-Geeker-ORG/discussions)
+✅ 4. [🔅 Go -> 前往 Discussions 讨论区加入这里](https://github.com/orgs/PM-Geeker-ORG/discussions)
 
 ---
 
