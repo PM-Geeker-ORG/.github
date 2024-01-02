@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <a href="#" target="_self">
+  <a href="https://github.com/PM-Geeker-ORG" target="_self">
     <img src="https://img.shields.io/badge/PM-Product%20Manager%20For%20Geeker-brightgreen?logo=Kubuntu&logoColor=f5f5f5" /></a> &nbsp;
-  <a href="#" target="_self">
+  <a href="https://github.com/PM-Geeker-ORG" target="_self">
     <img src="https://img.shields.io/badge/Share-Make%20A%20Wonderful%20World-brightgreen?logo=AMP" /></a> &nbsp;
-  <a href="#" target="_self">
+  <a href="https://github.com/PM-Geeker-ORG" target="_self">
     <img src="https://img.shields.io/badge/Base-Hold%20On%20Your%20Dream%20Here-brightgreen?logo=Funimation" /></a> 
   <hr>
 </div>
